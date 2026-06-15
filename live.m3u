@@ -72,7 +72,7 @@ http://172.19.17.3:8090/hls/ALjazeeraNews.m3u8
 http://172.19.17.3:8090/hls/bbc_world.m3u8
 
 #=======sports=====
-#EXTINF:-1 tvg-id="98" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560559088.png" group-title="Sports",Asports  📺 
+#EXTINF:-1 tvg-id="98" tvg-logo="https://i.imgur.com/NQZWKTG.jpeg" group-title="Sports",Asports  📺 
 http://172.19.17.3:8090/hls/ASportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",T Sports HD  📺
 http://172.19.17.3:8090/hls/tsportshd3rd.m3u8
