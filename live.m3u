@@ -76,7 +76,7 @@ http://172.19.17.3:8090/hls/bbc_world.m3u8
 http://172.19.17.3:8090/hls/ASportsHD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ia4W08C.jpeg" group-title="Sports",T Sports HD  📺
 http://172.19.17.3:8090/hls/tsportshd3rd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Ptv sports 📺
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mwAou7A.jpeg" group-title="Sports",Ptv sports 📺
 http://172.19.17.3:8090/hls/ptvsportshd.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Sports",Btv nationalHD 📺
 http://172.19.17.3:8090/hls/BTVNationalHD.m3u8
