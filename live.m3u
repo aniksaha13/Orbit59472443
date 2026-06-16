@@ -106,7 +106,7 @@ http://172.19.17.3:8090/hls/9xm.m3u8
 #=====Kids=====
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/d6gAMOu.png" group-title="Kids",Discovery kids 📺
 http://172.19.17.3:8090/hls/DiscoveryKids.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/LKtKtT9.jpeg" group-title="Kids",Cartoon network 📺
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/i0ZlpSL.png" group-title="Kids",Cartoon network 📺
 http://172.19.17.3:8090/hls/CartoonNetworkHD.m3u8
 
 #======English=====
